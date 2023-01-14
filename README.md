@@ -15,7 +15,7 @@ del taxi en el cual el taxista cometió alguna falta, la denuncia se hace con di
 ### Instrucciones:
 
 Encarecidamente se recomienda seguir las indicaciones para mejores resultados
-##### Nota: (Pasar entradas en el formato debido, pues este programa no cuenta con excepciones)
+##### Nota: (Pasar entradas en el formato debido, pues este programa no cuenta con control de excepciones)
 
 * Ve por la opcion de propietario, ingresas con el nombre de la flota, registra al menos un taxi (Placa, Nombre_Conductor) y recuerda la(s) placa(s) que registraste. Si quieres más de una flota puedes repetir este proceso las veces que desees. Luego salí de propietario
 * Ve ahora por la opción de pasajero para registrar una o varias denuncias a las placas antes registradas, salí de pasajero
